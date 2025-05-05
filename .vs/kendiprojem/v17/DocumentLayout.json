@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|c:\\users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|solutionrelative:kendiprojem\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|solutionrelative:kendiprojem\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\ogretmenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|solutionrelative:kendiprojem\\ogretmenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\ogretmengirisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|solutionrelative:kendiprojem\\ogretmengirisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\ogrenciform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|solutionrelative:kendiprojem\\ogrenciform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\ogretmenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|solutionrelative:kendiprojem\\ogretmenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\ogrenciform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|solutionrelative:kendiprojem\\ogrenciform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\ogrenciekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|solutionrelative:kendiprojem\\ogrenciekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|solutionrelative:kendiprojem\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|solutionrelative:kendiprojem\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\form2cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|solutionrelative:kendiprojem\\form2cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\diyagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|solutionrelative:kendiprojem\\diyagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\diyagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|solutionrelative:kendiprojem\\diyagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\ogrenciekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|solutionrelative:kendiprojem\\ogrenciekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\ogrencigirisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|solutionrelative:kendiprojem\\ogrencigirisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\ogrencigirisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|solutionrelative:kendiprojem\\ogrencigirisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\form2cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|solutionrelative:kendiprojem\\form2cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\ogretmengirisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|solutionrelative:kendiprojem\\ogretmengirisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\ogrencigirisi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E49C0E3-21C7-4819-8F9C-54E94E64AC89}|kendiprojem\\kendiprojem.csproj|solutionrelative:kendiprojem\\ogrencigirisi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\AnaForm.cs",
+              "RelativeDocumentMoniker": "kendiprojem\\AnaForm.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\AnaForm.cs",
+              "RelativeToolTip": "kendiprojem\\AnaForm.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:33:15.425Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\Form3.cs",
+              "RelativeDocumentMoniker": "kendiprojem\\Form3.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kendiprojem\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:36:18.885Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OgrenciForm.cs",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgrenciForm.cs",
+              "RelativeDocumentMoniker": "kendiprojem\\OgrenciForm.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgrenciForm.cs",
+              "RelativeToolTip": "kendiprojem\\OgrenciForm.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAhwCsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:05:10.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OgretmenGirisi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgretmenGirisi.cs",
+              "RelativeDocumentMoniker": "kendiprojem\\OgretmenGirisi.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgretmenGirisi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kendiprojem\\OgretmenGirisi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:40:35.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OgretmenForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgretmenForm.cs",
+              "RelativeDocumentMoniker": "kendiprojem\\OgretmenForm.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgretmenForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kendiprojem\\OgretmenForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:46:49.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OgretmenForm.cs",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgretmenForm.cs",
+              "RelativeDocumentMoniker": "kendiprojem\\OgretmenForm.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgretmenForm.cs",
+              "RelativeToolTip": "kendiprojem\\OgretmenForm.cs",
+              "ViewState": "AQIAAAQBAAAAAAAAAAAjwA8BAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:49:10.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\Form3.cs",
+              "RelativeDocumentMoniker": "kendiprojem\\Form3.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\Form3.cs",
+              "RelativeToolTip": "kendiprojem\\Form3.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAgwIYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:42:07.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OgrenciForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgrenciForm.cs",
+              "RelativeDocumentMoniker": "kendiprojem\\OgrenciForm.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgrenciForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kendiprojem\\OgrenciForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:09:38.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OgrenciEkrani.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgrenciEkrani.cs",
+              "RelativeDocumentMoniker": "kendiprojem\\OgrenciEkrani.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgrenciEkrani.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kendiprojem\\OgrenciEkrani.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:58:50.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\AnaForm.cs",
+              "RelativeDocumentMoniker": "kendiprojem\\AnaForm.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\AnaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kendiprojem\\AnaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:59:43.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2cs.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\Form2cs.cs",
+              "RelativeDocumentMoniker": "kendiprojem\\Form2cs.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\Form2cs.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kendiprojem\\Form2cs.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:21:06.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OgrenciEkrani.cs",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgrenciEkrani.cs",
+              "RelativeDocumentMoniker": "kendiprojem\\OgrenciEkrani.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgrenciEkrani.cs",
+              "RelativeToolTip": "kendiprojem\\OgrenciEkrani.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAArwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:01:24.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Diyagram.cs",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\Diyagram.cs",
+              "RelativeDocumentMoniker": "kendiprojem\\Diyagram.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\Diyagram.cs",
+              "RelativeToolTip": "kendiprojem\\Diyagram.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAASwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:24:14.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Diyagram.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\Diyagram.cs",
+              "RelativeDocumentMoniker": "kendiprojem\\Diyagram.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\Diyagram.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kendiprojem\\Diyagram.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:21:22.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OgrenciGirisi.cs",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgrenciGirisi.cs",
+              "RelativeDocumentMoniker": "kendiprojem\\OgrenciGirisi.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgrenciGirisi.cs",
+              "RelativeToolTip": "kendiprojem\\OgrenciGirisi.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAYwD8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:27:04.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OgrenciGirisi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgrenciGirisi.cs",
+              "RelativeDocumentMoniker": "kendiprojem\\OgrenciGirisi.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgrenciGirisi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kendiprojem\\OgrenciGirisi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:27:01.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form2cs.cs",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\Form2cs.cs",
+              "RelativeDocumentMoniker": "kendiprojem\\Form2cs.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\Form2cs.cs",
+              "RelativeToolTip": "kendiprojem\\Form2cs.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:41:31.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OgretmenGirisi.cs",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgretmenGirisi.cs",
+              "RelativeDocumentMoniker": "kendiprojem\\OgretmenGirisi.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgretmenGirisi.cs",
+              "RelativeToolTip": "kendiprojem\\OgretmenGirisi.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAIA1wBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:41:05.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OgrenciGirisi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgrenciGirisi.Designer.cs",
+              "RelativeDocumentMoniker": "kendiprojem\\OgrenciGirisi.Designer.cs",
+              "ToolTip": "C:\\Users\\nurda\\source\\repos\\kendiprojem\\kendiprojem\\OgrenciGirisi.Designer.cs",
+              "RelativeToolTip": "kendiprojem\\OgrenciGirisi.Designer.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAASwGoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:44:13.971Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
